@@ -6,7 +6,7 @@ Database implemented in Microsoft SQL Server and the graphical interface impleme
 
 Features:
 - DDL created manually
-- DDM with over 1000 functionaries created with the help of our own python script
+- DML with over 1000 functionaries created with the help of our own python script
 - Triggers, stored procedures and UDFs
 - Capability to add, edit and remove shopping centers, stores, functionaries, etc.
 
